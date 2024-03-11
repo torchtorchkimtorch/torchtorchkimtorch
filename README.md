@@ -24,7 +24,7 @@
 **Developing a speech recognition service for Korean speakers with dysarthria (CSA 2022 논문 게재 및 발표 - 제1저자)**
 # 🤩Experience
 **데이터청년캠퍼스 한국외국어대학교 자연어처리 과정 수료**  
-**부스트캠프 AI Tech 5기**
+**네이버 커넥트재단 부스트캠프 AI Tech 5기**
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhkim092929@gmail.com)](mailto:mhkim092929@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:mhkim0929@naver.com)](mailto:mhkim0929@naver.com)
