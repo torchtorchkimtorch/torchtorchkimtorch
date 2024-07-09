@@ -20,8 +20,6 @@
 **한국외국어대학교 (Hankuk University of Foreign Studies) ELLT학과 (English Linguistics and Language Technology) 졸업**
 # 🥇Awards
 **2022 인공지능 아이디어 페스티벌 - 대상 (훈격: 한국외국어대학교 총장상)**
-# 🌎Papers
-**Developing a speech recognition service for Korean speakers with dysarthria (CSA 2022 논문 게재 및 발표 - 제1저자)**
 # 🤩Experience
 **데이터청년캠퍼스 한국외국어대학교 자연어처리 과정 수료**  
 **네이버 커넥트재단 부스트캠프 AI Tech 5기**
