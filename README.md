@@ -17,7 +17,8 @@
 **SQLD (SQL Developer)**
 **투자자산운용사**
 # 👨‍🎓Education
-**한국외국어대학교 (Hankuk University of Foreign Studies) ELLT학과 (English Linguistics and Language Technology) 졸업**
+**한국외국어대학교 (Hankuk University of Foreign Studies) ELLT학과 (English Linguistics and Language Technology) 졸업**   
+**고려대학교(Korea University) 정보대학 컴퓨터학과 인공지능응용전공 석박통합과정 재학**
 # 🥇Awards
 **2022 인공지능 아이디어 페스티벌 - 대상 (훈격: 한국외국어대학교 총장상)**
 # 🤩Experience
