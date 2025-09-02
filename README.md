@@ -22,7 +22,7 @@
 # 👨‍🎓Education
 • **Bachelor's degree: Department of English Linguistics and Language Technology (ELLT), Hankuk University of Foreign Studies**    
       
-• **Ph.D Integrated (Currently) : Department of Computer Science and Engineering, Korea University**   
+• **Master Candidate (Currently) : Department of Computer Science and Engineering, Korea University**   
     
 # 🥇Awards
 • **2022 Artificial Intelligence Idea Competition - Grand Prize (awarded by: President of Hankuk University of Foreign Studies)**
